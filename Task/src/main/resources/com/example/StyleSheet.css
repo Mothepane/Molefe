@@ -1,0 +1,38 @@
+
+#previous{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#next{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#play{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#stop{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+
+#mute{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#pause{
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}

@@ -1,0 +1,59 @@
+.borderPane{
+    -fx-background-color: blue;
+}
+#slower{
+  -fx-background-image: url("../Multimedia/skip.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#faster{
+  -fx-background-image: url("../Multimedia/slow.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#play{
+  -fx-background-image: url("../Multimedia/play.jpg");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#fast{
+  -fx-background-image: url("../Multimedia/fast.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#slow{
+  -fx-background-image: url("../Multimedia/lety.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#pause{
+  -fx-background-image: url("../Multimedia/pause.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#stop{
+  -fx-background-image: url("../Multimedia/stop.png");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
+#exit{
+  -fx-background-image: url("../Multimedia/sound.jpg");
+  -fx-background-size: 20 20;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center;
+  -fx-background-color: grey;
+}
